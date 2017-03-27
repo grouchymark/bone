@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BONE M3",
-    "currentPage": "cookieyoung.html",
+    "currentPage": "prestonkofoed.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -943,7 +943,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#16fae9!important"
             }
           },
           "_tags": [
@@ -1011,13 +1011,16 @@
             "showButtons": false
           },
           "title": "FULL SCREEN INTRO",
-          "text": "Preston Kofoed<br>About<br>Gallery<br>Videos<br>Contact",
+          "text": "Preston Kofoed<br><a href=\"prestonkofoed.html#header3-6\">About</a><br><a href=\"prestonkofoed.html#extSlider2-9\">Gallery</a><br><a href=\"prestonkofoed.html#header1-a\">Videos</a><br>Contact",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#3d8eb9"
             }
           },
           "_tags": [
@@ -1028,10 +1031,10 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#000000",
+            "showMeta": false
           },
-          "title": "Title with Solid Background Color",
+          "title": "Preston Kofoed",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1043,11 +1046,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#6cc5f4"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text1": "<p>Born: Preston Jensen -- changed last name to Kofoed in 2nd grade</p><p>Birthplace: Salt Lake City, Utah</p><p>Favorite Music: Rock and Roll, Country, Jazz Fusion</p><p>Favorite Bands: Beatles, Doors, Led Zeppelin, Beach Boys, Creedence Clearwater Revival, Iron Butterfly</p><p>Favorite Musicians: Paul McCartney, John Fogerty, Carlos Santana, Ray Manzarek, Geddy Lee, Joe Satriani, Stanley Clarke, John Paul Jones, Stevie Wonder</p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p>First song learned on guitar: \"Hang Down Your Head Tom Dooley\" by The Kingston Trio</p><p>Credits: Recorded TV pilot with Niles Steiner, inventor of the Synthesized Valve Instrument, Played bass on \"Piss On Disco\" with Bottleneck, played on TV show \"Weekday,\" Played on Best Country in the West</p><p><br></p><p>Past Bands: Strawberry Alarm Clock, Bone, Shameless Bastards, Appoloosa, Larry Lawman and Legal Action, Bottleneck, Passin'Thru, Tin Pan Alley, Speakeasy, New Hope, Shuttlecraft, Ruby's Inn, Misfits, Moon Shadow, Reflections</p><p><br></p>",
+          "text3": "<p>First Interest in Music: When I was 3, I used to get a newspaper and put it down in front of the TV and play like it was a piano while my parents watched Liberace. Guess the black and white paper reminded me of the keys on a piano!</p><p><br></p><p><br></p><p>First Time on Stage: I was 13 and in 7th grade. I played the part of Paul McCartney in a skit for an assembly.We wore Beatle wigs and pantomimed \"I Saw Her Standing There.\" The girls screamed and yelled as if we were the Fab Four and I knew right there that I wanted to be a musician! And the rest is history!</p>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1067,7 +1070,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#3d8eb9",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -1093,17 +1096,18 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-extaccordion1-bg.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.4",
                 "contentAlign": "center",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "KENBURNS & PARALLAX SLIDER",
-                "showText": true,
+                "showText": false,
                 "text": "Boxed-layout slider with breath-taking pan & zoom also known as \"KenBurns\" effect and parallax transition between slides.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
@@ -1112,26 +1116,28 @@
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.4",
                 "contentAlign": "left",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "VIDEO SLIDE WITH KENBURNS AND PARALLAX",
-                "showText": true,
+                "showText": false,
                 "text": "Boxed-layout video slide with outstanding \"KenBurns\" effect and parallax transition between slides. Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/img-extaccordion1-bg.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayOpacity": "0.4",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "IMAGE SLIDE",
-                "showText": true,
+                "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
@@ -1175,239 +1181,44 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
+          "_name": "contacts1",
           "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2969b0"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#ffffff"
+            "STRONG": {
+              "color": "#00a885"
             }
           },
-          "_anchor": "features1-b",
+          "_anchor": "contacts1-d",
           "_params": {
-            "columnsColor": "#2969b0",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/emerg-2000x825-48.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title1": "Favorite Bands",
-          "subtitle1": "Top 10",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title2": "Influences",
-          "subtitle2": "Musically &amp; Others",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Passions&nbsp;",
-          "subtitle3": "I Love...",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Best Concerts",
-          "subtitle4": "Who, When &amp; Where",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Guilty Pleasures",
-          "subtitle5": "I'll Admit To...",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Social Media",
-          "subtitle6": "Find Me Here!",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#000000"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
-              "color": "#ffffff"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "features1-c",
-          "_params": {
-            "columnsColor": "#000000",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/multipurple-2000x825-12.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bone-multicolor-128x112-44.jpg",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "6",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "title1": "BONE Jams",
-          "subtitle1": "My Favorite Songs to Perform",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title2": "Dream Band",
-          "subtitle2": "My Selections...",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Little Known Facts",
-          "subtitle3": "People Might Be Surprised To Know...",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Under Appreciated",
-          "subtitle4": "Talented Artists More People Should Know Sbout",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Links",
-          "subtitle5": "These Are a Few of<br>My Favorite Things...",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Wild Card",
-          "subtitle6": "Open Category",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "text1": "<strong>Address</strong><br><br>Salt Lake City, UT 84115",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <b><a href=\"mail to: rockistothebone@gmail.com\" target=\"_blank\">rockistothebone@gmail.com</a></b><br>BONE Phone: (307) 316-BONE (Call or Text)<br>Preston: &nbsp;(801) 918-2806 (Call/Text)<br>Mark: (307) 288-0070 (Call/Text)",
+          "text3": "<strong>Links</strong><br><a href=\"http://facebook.com/RockIsToTheBone\" target=\"_blank\">BONE on Facebook</a><br><a href=\"http://bone.isinthehouse.com\" target=\"_blank\">Older BONE Site</a><br><a href=\"http://grouchymark.com\" target=\"_blank\">Webmaster</a>"
         }
       ]
     },
@@ -1697,18 +1508,18 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          },
           "_anchor": "buttons1-34",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mail to: jamesyoungjr@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Email Cookie</a> ",
-          "_styles": {
-            ".btn": {
-              "font-size": "14px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"mail to: jamesyoungjr@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Email Cookie</a> "
         },
         {
           "_tags": [
