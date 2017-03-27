@@ -939,35 +939,8 @@ h6,
 #social-buttons3-i .btn-social {
   color: #fff;
 }
-#features1-l .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2969b0;
-}
-#features1-l .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #ffffff;
-}
-#features1-l .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #ffffff;
-}
-#features1-l .mbr-cards-col:nth-child(even) .card-title {
-  color: #ffffff;
-}
-#features1-l .mbr-cards-col:nth-child(even) .card-text {
-  color: #ffffff;
-}
-#features1-m .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #000000;
-}
-#features1-m .mbr-cards-col:nth-child(even) .card-title {
-  color: #ffffff;
-}
-#features1-m .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #ffffff;
-}
-#features1-m .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #ffffff;
-}
-#features1-m .mbr-cards-col:nth-child(even) .card-text {
-  color: #ffffff;
+#contacts1-d STRONG {
+  color: #00a885;
 }
 #menu-n .hide-buttons .nav-btn {
   display: none !important;
@@ -1184,6 +1157,7 @@ h6,
 @isRoundedButtons: true;
 @isAnimatedOnScroll: true;
 @isScrollToTopButton: true;
+@isRtl: false;
 
 #menu-15 {
 .hide-buttons .nav-btn {
