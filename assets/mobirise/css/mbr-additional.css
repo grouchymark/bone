@@ -1209,7 +1209,7 @@ h6,
 	font-size: 1.029rem;
 }
 .link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {
-	color: #16fae9;
+	color: @primaryColor;
 }
 .link[aria-expanded="true"], .dropdown-menu {
 	background: #1b044f;
@@ -1228,7 +1228,7 @@ h6,
 	transition: color .2s ease-in-out;
 }
 .bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {
-	color: #16fae9;
+	color: @primaryColor;
 }
 .link[aria-expanded="true"], .dropdown-item[aria-expanded="true"] {
 	color: #16fae9!important;
