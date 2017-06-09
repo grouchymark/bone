@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BONE M3",
-    "currentPage": "prestonkofoed.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1042,6 +1042,11 @@
             "Theme"
           ],
           "_name": "content7",
+          "_styles": {
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "content7-7",
           "_params": {
             "paddingTop": 1,
@@ -1050,12 +1055,7 @@
           },
           "text1": "<p>Born: Preston Jensen -- changed last name to Kofoed in 2nd grade</p><p>Birthplace: Salt Lake City, Utah</p><p>Favorite Music: Rock and Roll, Country, Jazz Fusion</p><p>Favorite Bands: Beatles, Doors, Led Zeppelin, Beach Boys, Creedence Clearwater Revival, Iron Butterfly</p><p>Favorite Musicians: Paul McCartney, John Fogerty, Carlos Santana, Ray Manzarek, Geddy Lee, Joe Satriani, Stanley Clarke, John Paul Jones, Stevie Wonder</p><p><br></p><p><br></p><p><br></p>",
           "text2": "<p>First song learned on guitar: \"Hang Down Your Head Tom Dooley\" by The Kingston Trio</p><p>Credits: Recorded TV pilot with Niles Steiner, inventor of the Synthesized Valve Instrument, Played bass on \"Piss On Disco\" with Bottleneck, played on TV show \"Weekday,\" Played on Best Country in the West</p><p><br></p><p>Past Bands: Strawberry Alarm Clock, Bone, Shameless Bastards, Appoloosa, Larry Lawman and Legal Action, Bottleneck, Passin'Thru, Tin Pan Alley, Speakeasy, New Hope, Shuttlecraft, Ruby's Inn, Misfits, Moon Shadow, Reflections</p><p><br></p>",
-          "text3": "<p>First Interest in Music: When I was 3, I used to get a newspaper and put it down in front of the TV and play like it was a piano while my parents watched Liberace. Guess the black and white paper reminded me of the keys on a piano!</p><p><br></p><p><br></p><p>First Time on Stage: I was 13 and in 7th grade. I played the part of Paul McCartney in a skit for an assembly.We wore Beatle wigs and pantomimed \"I Saw Her Standing There.\" The girls screamed and yelled as if we were the Fab Four and I knew right there that I wanted to be a musician! And the rest is history!</p>",
-          "_styles": {
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "text3": "<p>First Interest in Music: When I was 3, I used to get a newspaper and put it down in front of the TV and play like it was a piano while my parents watched Liberace. Guess the black and white paper reminded me of the keys on a piano!</p><p><br></p><p><br></p><p>First Time on Stage: I was 13 and in 7th grade. I played the part of Paul McCartney in a skit for an assembly.We wore Beatle wigs and pantomimed \"I Saw Her Standing There.\" The girls screamed and yelled as if we were the Fab Four and I knew right there that I wanted to be a musician! And the rest is history!</p>"
         },
         {
           "_inherit": "social-buttons1",
@@ -1187,18 +1187,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#b8312f"
+            }
+          },
           "_anchor": "content1-35",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text": "<a href=\"mail to: baldmusician@gmail.com\" target=\"_blank\">Email Preston</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Call/Text Pres: (801) 918-2806",
-          "_styles": {
-            "DIV": {
-              "color": "#b8312f"
-            }
-          }
+          "text": "<a href=\"mail to: baldmusician@gmail.com\" target=\"_blank\">Email Preston</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Call/Text Pres: (801) 918-2806"
         },
         {
           "_tags": [
