@@ -1349,6 +1349,13 @@ P {
 #menu-1f .dropdown-item[aria-expanded="true"] {
   color: #16fae9!important;
 }
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-36 H3 {
+  color: #553982;
+}
 #social-buttons3-1j .mbr-section-title,
 #social-buttons3-1j .btn-social {
   color: #fff;
