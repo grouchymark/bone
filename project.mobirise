@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BONE M3",
-    "currentPage": "gigs.html",
+    "currentPage": "venuesandevents.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1640,7 +1640,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#16fae9!important"
             }
           },
           "_tags": [
@@ -2159,7 +2159,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#16fae9!important"
             }
           },
           "_tags": [
